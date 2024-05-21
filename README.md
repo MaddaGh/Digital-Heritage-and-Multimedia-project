@@ -1,6 +1,6 @@
 # Anthropos Un-layered
 
-This is the repository for the project **Anthropos Un-layered** developed during the course Digital Heritage and Multimedia within the Digital Humanities and Digital knowledge Master @ University of Bologna. 
+This is the repository for the project **Anthropos Un-layered** developed during the course Digital Heritage and Multimedia, led by Sofia Pescarin and Simona Caraceni, within the Digital Humanities and Digital knowledge Master @ University of Bologna. 
 
 You can find here:
 1. The project report pdf **Un-layering the Anthropos - Design Brief**
